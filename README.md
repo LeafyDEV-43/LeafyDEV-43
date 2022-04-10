@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LeafyDEV-43
+- 👀 I’m interested in Making games
+- 🌱 I’m currently learning Javascript
+- I'm a Cat
